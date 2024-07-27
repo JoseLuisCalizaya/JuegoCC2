@@ -1,0 +1,36 @@
+﻿  EstadoEdicionMapa.cpp
+  Juego.cpp
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(90,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(90,92): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(92,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(92,92): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(94,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(94,92): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(97,86): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(97,83): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(99,90): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Juego.cpp(99,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Jugador.cpp
+  Plataforma.cpp
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,38): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,38): warning C4244:         with
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,38): warning C4244:         [
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,38): warning C4244:             T=float
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,38): warning C4244:         ]
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,35): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,35): warning C4244:         with
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,35): warning C4244:         [
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,35): warning C4244:             T=float
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(6,35): warning C4244:         ]
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,34): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,34): warning C4244:         with
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,34): warning C4244:         [
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,34): warning C4244:             T=float
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,34): warning C4244:         ]
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,31): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,31): warning C4244:         with
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,31): warning C4244:         [
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,31): warning C4244:             T=float
+C:\Users\LENOVO\source\repos\JUEGO\src\Plataforma.cpp(7,31): warning C4244:         ]
+  Generando código...
+  JUEGO.vcxproj -> C:\Users\LENOVO\source\repos\JUEGO\Debug\JUEGO.exe
